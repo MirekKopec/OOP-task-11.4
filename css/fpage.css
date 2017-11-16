@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
+body {
+	font-family: 'Open Sans';
+}
+div {
+	margin: 0;
+	padding: 0;
+}
+.section:nth-of-type(1) {
+	background: #167FFC;
+}
+.section:nth-of-type(2) {
+	background: #95a5a6;
+}
+.section:nth-of-type(3) {
+	background: #FFCB2F;
+}
+.section:nth-of-type(4) {
+	background: #53D86A;
+}
+.section:nth-of-type(5) {
+	background: #e74c3c;
+}
+h1,
+h2 {
+	text-align: center;
+}
