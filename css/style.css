@@ -12,4 +12,14 @@ h1 {
   font-size: 40px;
   font-weight: 500; }
 
-  
+  button {
+    background-color: #00c7e8;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px;
+    transition: .3s; }
+
+  button:hover {
+    background-color: violet; }
